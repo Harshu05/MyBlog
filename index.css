@@ -1,0 +1,13 @@
+.navbar-nav > a:hover{
+    font-weight: bold;
+}
+/* .container{
+    
+} */
+.col{
+    align-items: center;
+    justify-content: center;
+}
+.col > p{
+    margin:10px;
+}
